@@ -1,24 +1,38 @@
-# Repository: steipete/steipete
-
 # Hi, I'm Rahul 👋
 
-📍 **Hyderabad India**
+📍 **Hyderabad, India**
 
-![JAVA] 
-![TypeScript] 
-![JavaScript] 
-![Node.js] 
-![CLI] 
-![Linux] 
-![ReactNative] 
-![Web] 
+**Developer focused on building practical products with clean UX and solid engineering.**
+I enjoy turning ideas into usable tools—especially in web, backend, and automation.
 
+### Tech I Work With
 
-## Current Projects
+* **Java**
+* **TypeScript / JavaScript**
+* **Node.js**
+* **React Native**
+* **CLI Tools**
+* **Linux**
+* **Web Development**
 
-- 🦞 **[feedsense.ai] ** - Centralize and analyze feedback across multiple websites with AI-powered insights. Easily collect user input, prioritize improvements, and enhance user experience from one dashboard
-- 🚇 **[TuneIn] ** -   TuneIn is a sleek web application that lets Spotify users showcase their listening habits.Perfect for embedding in your portfolio
-- 🚀 **[InterviewPrepAI] ** - Available only on Intensala and Wellfound. InterviewPrepAI helps job seekers prepare for interviews by analyzing job descriptions and generating tailored questions you’re likely to be asked
-- 👉 **[Matrix] ** -   Matrix is an app that connects tech enthusiast working in different domains helping you network find right people who match your interst and also chat with them post about the things you are working on.
-- 🚦 **[TapNFill] ** - TapNFill lets you save custom input field data (like name, email, phone, etc.) and easily autofill it with just a click
-- 📍 **[TextDrop] ** - This is a simple web editor. No database, no saving—just write and share via URL.
+---
+
+## 🚀 Current Projects
+
+* 🦞 **Feedsense.ai**
+  Centralize and analyze feedback across multiple websites using AI-powered insights. Collect user input, prioritize improvements, and enhance user experience—all from one dashboard.
+
+* 🎧 **TuneIn**
+  A sleek web app that lets Spotify users showcase their listening habits. Perfect for embedding in a personal portfolio.
+
+* 🤖 **InterviewPrepAI**
+  Available on **Intensala** and **Wellfound**. Helps job seekers prepare for interviews by analyzing job descriptions and generating tailored questions you’re likely to be asked.
+
+* 🧩 **Matrix**
+  A networking app for tech enthusiasts across different domains. Connect with like-minded builders, chat, and share what you’re working on.
+
+* 🚦 **TapNFill**
+  Save custom input data (name, email, phone, etc.) and autofill forms instantly with a single click.
+
+* ✍️ **TextDrop**
+  A minimal web editor. No database. No accounts. Just write and share your text via a URL.
