@@ -2,13 +2,11 @@
 
 📍 **Hyderabad, India**
 
-**Developer focused on building practical products with clean UX and solid engineering.**
-I enjoy turning ideas into usable tools—especially in web, backend, and automation.
-
 ### Tech I Work With
 
 * **Java**
 * **TypeScript / JavaScript**
+* **Python**
 * **Node.js**
 * **React Native**
 * **CLI Tools**
