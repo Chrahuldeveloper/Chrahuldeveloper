@@ -29,7 +29,7 @@ I'm a tech enthusiast with diverse interests, spanning AI, Machine Learning, Dat
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 * 🦞 **Feedsense.ai**
   Centralize and analyze feedback across multiple websites using AI-powered insights. Collect user input, prioritize improvements, and enhance user experience—all from one dashboard.
