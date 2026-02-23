@@ -2,15 +2,29 @@
 
 📍 **Hyderabad, India**
 
-### Tech I Work With
+**About me**
+I'm a tech enthusiast with diverse interests, spanning AI, Machine Learning, Data Science, Statistics, Cybersecurity, and Game Development. My journey with computers and coding began at the age of 16, and I've been immersed in it ever since.
+
+---
+
+### Tech I work with
 
 * **Java**
 * **TypeScript / JavaScript**
 * **Python**
 * **Node.js**
+* **React / Next.js**
 * **React Native**
-* **CLI Tools**
+* **Express / FastAPI**
+* **REST APIs / GraphQL**
+* **PostgreSQL / MySQL / MongoDB**
+* **Prisma / Drizzle**
+* **Docker**
 * **Linux**
+* **CLI Tools**
+* **Cloud (GCP, AWS)**
+* **System Design**
+* **DSA**
 * **Web Development**
 
 ---
