@@ -31,6 +31,11 @@ I'm a tech enthusiast with diverse interests, spanning AI, Machine Learning, Dat
 
 ## Current Projects
 
+
+* ⏳ **DayMark**
+  A daily progress and discipline app that helps you mark each day with intention.
+  DayMark focuses on small wins, streaks, and consistency—so you track progress by days, not goals, and never lose momentum.
+  
 * 🦞 **Feedsense.ai**
   Centralize and analyze feedback across multiple websites using AI-powered insights. Collect user input, prioritize improvements, and enhance user experience—all from one dashboard.
 
