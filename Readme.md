@@ -2,7 +2,7 @@
 
 📍 **Hyderabad, India**
 
-**About me**
+**About me :**
 I'm a tech enthusiast with diverse interests, spanning AI, Machine Learning, Data Science, Statistics, Cybersecurity, and Game Development. My journey with computers and coding began at the age of 16, and I've been immersed in it ever since.
 
 ---
