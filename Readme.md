@@ -29,7 +29,7 @@ I'm a tech enthusiast with diverse interests, spanning AI, Machine Learning, Dat
 
 ---
 
-## Current Projects
+## Projects
 
 
 * ⏳ **DayMark**
